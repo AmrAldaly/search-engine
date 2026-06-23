@@ -1,0 +1,15 @@
+streamlit
+langchain-groq
+arxiv
+wikipedia
+langchain-text-splitters
+duckduckgo-search
+pypdf
+chromadb
+sentence-transformers
+langchain-community
+langchain
+langchain-core
+langchain-chroma
+python-dotenv
+
